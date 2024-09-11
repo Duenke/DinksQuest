@@ -1,8 +1,8 @@
-# Interface: 40000
+## Interface: 110002
 ## Title: DinksQuest
 ## Notes: My custom quest addon.
 ## Author: halfByteMedic
-## Version: 0.1
+## Version: 1.0.0
 ## SavedVariables: DinksQuestDB
 ## IconTexture: Interface\ICONS\Spell_holy_magicalsentry
 
